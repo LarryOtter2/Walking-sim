@@ -1,2 +1,2 @@
 # Walking-sim
-Walking Simulator Based on a 
+Walking Simulator Based on a Lyrical reference.
